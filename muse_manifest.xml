@@ -1,43 +1,53 @@
-<manifest alg="2" build="2017.0.1.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="kartikeyangupta.ml" resolutions="1x,2x" timestamp="1564330172276">
+<manifest alg="2" build="2017.0.1.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="kartikeyangupta.ml" resolutions="1x,2x" timestamp="1564948302325">
+  <folder name="phone">
+    <folder name="css">
+      <file name="master_a-master.css" crc="52935331" ref="phone>index"/>
+      <file name="nomq_preview_master_a-master.css" crc="3824530138" ref="phone>index"/>
+      <file name="index.css" crc="76240043" ref="phone>index"/>
+      <file name="nomq_index.css" crc="3824530138" ref="phone>index"/>
+    </folder>
+    <file name="index.html" crc="184670819" seo="true" mt="1564948133870" redirect="true"/>
+  </folder>
   <folder name="css">
     <file name="site_global.css" crc="443350757"/>
-    <file name="master_a-master.css" crc="3852139406" ref="index"/>
+    <file name="master_a-master.css" crc="4006760013" ref="index"/>
     <file name="nomq_preview_master_a-master.css" crc="25022444" ref="index"/>
-    <file name="index.css" crc="473009300" ref="index"/>
-    <file name="nomq_index.css" crc="3913642035" ref="index"/>
+    <file name="index.css" crc="238728883" ref="index"/>
+    <file name="nomq_index.css" crc="3805147415" ref="index"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
-    <file name="museutils.js" crc="4148063285" ref="index"/>
-    <file name="whatinput.js" crc="86476730" ref="index"/>
-    <file name="museconfig.js" crc="172512987" ref="index"/>
-    <file name="jquery.musemenu.js" crc="3765830709" ref="index"/>
-    <file name="jquery.watch.js" crc="437028206" ref="index"/>
-    <file name="jquery.musepolyfill.bgsize.js" crc="4001026563" ref="index"/>
-    <file name="webpro.js" crc="3986320349" ref="index"/>
-    <file name="musewpdisclosure.js" crc="3865010892" ref="index"/>
-    <file name="form_check.php" crc="303648844" ref="index"/>
-    <file name="form_throttle.php" crc="236764551" ref="index"/>
-    <file name="form_process.php" crc="4272079531" ref="index"/>
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:phone>index"/>
+    <file name="museutils.js" crc="4148063285" ref="index:phone>index"/>
+    <file name="whatinput.js" crc="86476730" ref="index:phone>index"/>
+    <file name="museconfig.js" crc="172512987" ref="index:phone>index"/>
+    <file name="jquery.musemenu.js" crc="3765830709" ref="index:phone>index"/>
+    <file name="jquery.watch.js" crc="437028206" ref="index:phone>index"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4001026563" ref="index:phone>index"/>
+    <file name="webpro.js" crc="3986320349" ref="index:phone>index"/>
+    <file name="musewpdisclosure.js" crc="3865010892" ref="index:phone>index"/>
+    <file name="form_check.php" crc="303648844" ref="phone>index"/>
+    <file name="form_throttle.php" crc="236764551" ref="phone>index"/>
+    <file name="form_process.php" crc="4272079531" ref="phone>index"/>
     <file name="form-u21979.php" crc="508016610" ref="index"/>
-    <file name="html5shiv.js" crc="4241844378" ref="index"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:phone>index"/>
     <file name="jquery.museresponsive.js" crc="3991890305" ref="index"/>
-    <file name="require.js" crc="4159430777" ref="index"/>
+    <file name="require.js" crc="4159430777" ref="index:phone>index"/>
+    <file name="form-u38369.php" crc="21741691" ref="phone>index"/>
   </folder>
   <folder name="images">
     <file name="logo-crop-u125.png" crc="474343247" ref="index"/>
     <file name="logo-crop-u125_2x.png" crc="4208521238" ref="index"/>
     <file name="u142-4.png" crc="3819751350" ref="index"/>
     <file name="u142-4_2x.png" crc="429462655" ref="index"/>
-    <file name="u184-4.png" crc="4027527029" ref="index"/>
-    <file name="u184-4_2x.png" crc="4169398990" ref="index"/>
-    <file name="u216-4.png" crc="4250795525" ref="index"/>
-    <file name="u216-4_2x.png" crc="4268506817" ref="index"/>
-    <file name="u241-4.png" crc="3898766653" ref="index"/>
-    <file name="u241-4_2x.png" crc="4202309079" ref="index"/>
-    <file name="u270-4.png" crc="3944703076" ref="index"/>
-    <file name="u270-4_2x.png" crc="534073374" ref="index"/>
-    <file name="city wallpaper.jpg" crc="3766970335" ref="index"/>
+    <file name="u184-4.png" crc="31234503" ref="index"/>
+    <file name="u184-4_2x.png" crc="402978979" ref="index"/>
+    <file name="u216-4.png" crc="3958498679" ref="index"/>
+    <file name="u216-4_2x.png" crc="3991488282" ref="index"/>
+    <file name="u241-4.png" crc="425057086" ref="index"/>
+    <file name="u241-4_2x.png" crc="462796759" ref="index"/>
+    <file name="u270-4.png" crc="3924367217" ref="index"/>
+    <file name="u270-4_2x.png" crc="4021034936" ref="index"/>
+    <file name="city wallpaper.jpg" crc="3766970335" ref="index:phone>index"/>
     <file name="u5367-8.png" crc="191018391" ref="index"/>
     <file name="u5367-8_2x.png" crc="275339150" ref="index"/>
     <file name="u5370-4.png" crc="121429426" ref="index"/>
@@ -48,11 +58,11 @@
     <file name="logo_2x.png" crc="454199810" seo="true" ref="index"/>
     <file name="puri template wallpaper.jpg" crc="3957743098" ref="index"/>
     <file name="puri template wallpaper_2x.jpg" crc="3934412607" ref="index"/>
-    <file name="orcha amazing wallpaper.jpg" crc="4002687866" ref="index"/>
+    <file name="orcha amazing wallpaper.jpg" crc="4002687866" ref="index:phone>index"/>
     <file name="u16164-4.png" crc="401646746" ref="index"/>
     <file name="u16164-4_2x.png" crc="3967925039" ref="index"/>
     <file name="logo python-crop-u16177.png" crc="458326195" ref="index"/>
-    <file name="logo python-crop-u16177_2x.png" crc="4267796625" ref="index"/>
+    <file name="logo python-crop-u16177_2x.png" crc="3934275259" ref="index"/>
     <file name="java logo-crop-u16179.png" crc="345462549" ref="index"/>
     <file name="java logo-crop-u16179_2x.png" crc="434911254" ref="index"/>
     <file name="android logo-crop-u16181.png" crc="4185524038" ref="index"/>
@@ -73,8 +83,8 @@
     <file name="u16191-5_2x.png" crc="5999278" ref="index"/>
     <file name="u19848-4.png" crc="389662899" ref="index"/>
     <file name="u19848-4_2x.png" crc="231865099" ref="index"/>
-    <file name="wheet wallpaper.jpg" crc="4160757388" ref="index"/>
-    <file name="wheet wallpaper_2x.jpg" crc="86766808" ref="index"/>
+    <file name="wheet wallpaper.jpg" crc="4160757388" ref="index:phone>index"/>
+    <file name="wheet wallpaper_2x.jpg" crc="86766808" ref="index:phone>index"/>
     <file name="logo github.png" crc="156801522" seo="true" ref="index"/>
     <file name="logo github_2x.png" crc="403237829" seo="true" ref="index"/>
     <file name="icon-crop-u19875.png" crc="3976707735" ref="index"/>
@@ -256,37 +266,37 @@
     <file name="pngfindcom-kodi-png-19880066x69_2x.png" crc="512071160" seo="true" ref="index"/>
     <file name="u19848-44.png" crc="4021905288" ref="index"/>
     <file name="u19848-4_2x4.png" crc="112473988" ref="index"/>
-    <file name="logo github69x69.png" crc="4293975813" seo="true" ref="index"/>
-    <file name="logo github69x69_2x.png" crc="3953963480" seo="true" ref="index"/>
+    <file name="logo github69x69.png" crc="4293975813" seo="true" ref="phone>index"/>
+    <file name="logo github69x69_2x.png" crc="3953963480" seo="true" ref="phone>index"/>
     <file name="icon-crop-u198754.png" crc="180485837" ref="index"/>
     <file name="u19880-44.png" crc="4055784072" ref="index"/>
     <file name="u19880-4_2x4.png" crc="68660031" ref="index"/>
-    <file name="screenshot 1127x70.jpg" crc="162876675" seo="true" ref="index"/>
-    <file name="screenshot 1127x70_2x.jpg" crc="439344553" seo="true" ref="index"/>
-    <file name="screenshot 2126x69.jpg" crc="3831985224" seo="true" ref="index"/>
-    <file name="screenshot 2126x69_2x.jpg" crc="4075758875" seo="true" ref="index"/>
-    <file name="screenshot 3127x70.jpg" crc="3897558595" seo="true" ref="index"/>
-    <file name="screenshot 3127x70_2x.jpg" crc="356637960" seo="true" ref="index"/>
+    <file name="screenshot 1127x70.jpg" crc="162876675" seo="true" ref="phone>index"/>
+    <file name="screenshot 1127x70_2x.jpg" crc="439344553" seo="true" ref="phone>index"/>
+    <file name="screenshot 2126x69.jpg" crc="3831985224" seo="true" ref="phone>index"/>
+    <file name="screenshot 2126x69_2x.jpg" crc="4075758875" seo="true" ref="phone>index"/>
+    <file name="screenshot 3127x70.jpg" crc="3897558595" seo="true" ref="phone>index"/>
+    <file name="screenshot 3127x70_2x.jpg" crc="356637960" seo="true" ref="phone>index"/>
     <file name="main_page-crop-u198534.jpg" crc="4268431564" ref="index"/>
     <file name="main_page-crop-u19853_2x4.jpg" crc="258526453" ref="index"/>
-    <file name="er_diagram259x121.jpg" crc="489418757" seo="true" ref="index"/>
-    <file name="database library157x107.jpg" crc="3869848231" seo="true" ref="index"/>
+    <file name="er_diagram259x121.jpg" crc="489418757" seo="true" ref="phone>index"/>
+    <file name="database library157x107.jpg" crc="3869848231" seo="true" ref="phone>index"/>
     <file name="repo logo300x150.png" crc="278674134" seo="true" ref="index"/>
     <file name="repo logo300x150_2x.png" crc="237505706" seo="true" ref="index"/>
     <file name="u22157-54.png" crc="11899726" ref="index"/>
     <file name="u22157-5_2x4.png" crc="4155476951" ref="index"/>
     <file name="contact-u21978-fr3.jpg" crc="4267806247" ref="index"/>
     <file name="contact-u21978-fr_2x3.jpg" crc="3823673040" ref="index"/>
-    <file name="logo facebook44x44.png" crc="3966914660" seo="true" ref="index"/>
-    <file name="logo facebook44x44_2x.png" crc="4064403973" seo="true" ref="index"/>
-    <file name="logo linkedin53x53.png" crc="3936276623" seo="true" ref="index"/>
-    <file name="logo linkedin53x53_2x.png" crc="294185757" seo="true" ref="index"/>
-    <file name="logo github49x49.png" crc="343752431" seo="true" ref="index"/>
-    <file name="logo github49x49_2x.png" crc="4090100555" seo="true" ref="index"/>
-    <file name="insta logo47x47.png" crc="398165327" seo="true" ref="index"/>
-    <file name="insta logo47x47_2x.png" crc="3788425516" seo="true" ref="index"/>
-    <file name="logo youtube47x47.png" crc="152111666" seo="true" ref="index"/>
-    <file name="logo youtube47x47_2x.png" crc="31210313" seo="true" ref="index"/>
+    <file name="logo facebook44x44.png" crc="3966914660" seo="true" ref="phone>index"/>
+    <file name="logo facebook44x44_2x.png" crc="4064403973" seo="true" ref="phone>index"/>
+    <file name="logo linkedin53x53.png" crc="3936276623" seo="true" ref="phone>index"/>
+    <file name="logo linkedin53x53_2x.png" crc="294185757" seo="true" ref="phone>index"/>
+    <file name="logo github49x49.png" crc="343752431" seo="true" ref="phone>index"/>
+    <file name="logo github49x49_2x.png" crc="4090100555" seo="true" ref="phone>index"/>
+    <file name="insta logo47x47.png" crc="398165327" seo="true" ref="phone>index"/>
+    <file name="insta logo47x47_2x.png" crc="3788425516" seo="true" ref="phone>index"/>
+    <file name="logo youtube47x47.png" crc="152111666" seo="true" ref="phone>index"/>
+    <file name="logo youtube47x47_2x.png" crc="31210313" seo="true" ref="phone>index"/>
     <file name="u5367-85.png" crc="119424680" ref="index"/>
     <file name="u5367-8_2x5.png" crc="3863693815" ref="index"/>
     <file name="u5370-45.png" crc="299002536" ref="index"/>
@@ -328,18 +338,6 @@
     <file name="main_page-crop-u19853_2x5.jpg" crc="258526453" ref="index"/>
     <file name="u22157-55.png" crc="422887423" ref="index"/>
     <file name="u22157-5_2x5.png" crc="3983494785" ref="index"/>
-    <file name="contact-u21978-fr4.jpg" crc="156466352" ref="index"/>
-    <file name="contact-u21978-fr_2x4.jpg" crc="3844285845" ref="index"/>
-    <file name="logo facebook-crop-u24797.png" crc="3944428412" ref="index"/>
-    <file name="logo facebook-crop-u24797_2x.png" crc="4250231180" ref="index"/>
-    <file name="logo linkedin-crop-u24790.png" crc="4196273929" ref="index"/>
-    <file name="logo linkedin-crop-u24790_2x.png" crc="447587501" ref="index"/>
-    <file name="logo github-crop-u24785.png" crc="4067272364" ref="index"/>
-    <file name="logo github-crop-u24785_2x.png" crc="3919558124" ref="index"/>
-    <file name="insta logo-crop-u24848.png" crc="4005352823" ref="index"/>
-    <file name="insta logo-crop-u24848_2x.png" crc="3865917740" ref="index"/>
-    <file name="logo youtube-crop-u24870.png" crc="147726583" ref="index"/>
-    <file name="logo youtube-crop-u24870_2x.png" crc="213097087" ref="index"/>
     <file name="u5367-86.png" crc="285611108" ref="index"/>
     <file name="u5367-8_2x6.png" crc="127526654" ref="index"/>
     <file name="u5370-46.png" crc="3820224682" ref="index"/>
@@ -501,16 +499,6 @@
     <file name="main_page-crop-u19853_2x8.jpg" crc="28867748" ref="index"/>
     <file name="u22157-58.png" crc="312651450" ref="index"/>
     <file name="u22157-5_2x8.png" crc="296835667" ref="index"/>
-    <file name="logo facebook-crop-u247972.png" crc="3815151970" ref="index"/>
-    <file name="logo facebook-crop-u24797_2x2.png" crc="81328081" ref="index"/>
-    <file name="logo linkedin-crop-u247902.png" crc="185267149" ref="index"/>
-    <file name="logo linkedin-crop-u24790_2x2.png" crc="3862474604" ref="index"/>
-    <file name="logo github-crop-u247852.png" crc="4019419299" ref="index"/>
-    <file name="logo github-crop-u24785_2x2.png" crc="44013141" ref="index"/>
-    <file name="insta logo-crop-u248482.png" crc="222118781" ref="index"/>
-    <file name="insta logo-crop-u24848_2x2.png" crc="4091387065" ref="index"/>
-    <file name="logo youtube-crop-u248702.png" crc="3836388842" ref="index"/>
-    <file name="logo youtube-crop-u24870_2x2.png" crc="4139020287" ref="index"/>
     <file name="u5367-89.png" crc="3768328660" ref="index"/>
     <file name="u5367-8_2x9.png" crc="4146016914" ref="index"/>
     <file name="u5370-49.png" crc="3914278483" ref="index"/>
@@ -532,7 +520,7 @@
     <file name="u16191-59.png" crc="3972405461" ref="index"/>
     <file name="u16191-5_2x9.png" crc="327737253" ref="index"/>
     <file name="logo python-crop-u161779.png" crc="3926949619" ref="index"/>
-    <file name="logo python-crop-u16177_2x9.png" crc="306837182" ref="index"/>
+    <file name="logo python-crop-u16177_2x9.png" crc="4179389676" ref="index"/>
     <file name="java logo-crop-u161799.png" crc="4152645880" ref="index"/>
     <file name="java logo-crop-u16179_2x9.png" crc="321111852" ref="index"/>
     <file name="android logo-crop-u161819.png" crc="4263658646" ref="index"/>
@@ -672,17 +660,82 @@
     <file name="main_page-crop-u19853_2x11.jpg" crc="3968438725" ref="index"/>
     <file name="u22157-511.png" crc="3906557816" ref="index"/>
     <file name="u22157-5_2x11.png" crc="437913703" ref="index"/>
-    <file name="logo linkedin-crop-u247903.png" crc="3986626449" ref="index"/>
-    <file name="logo linkedin-crop-u24790_2x3.png" crc="3993738066" ref="index"/>
-    <file name="logo github-crop-u247853.png" crc="98850516" ref="index"/>
-    <file name="logo github-crop-u24785_2x3.png" crc="4292352387" ref="index"/>
-    <file name="insta logo-crop-u248483.png" crc="4119584308" ref="index"/>
-    <file name="insta logo-crop-u24848_2x3.png" crc="4137223024" ref="index"/>
-    <file name="logo youtube-crop-u248703.png" crc="4020788124" ref="index"/>
-    <file name="logo youtube-crop-u24870_2x3.png" crc="99679654" ref="index"/>
-    <file name="logo facebook-crop-u247973.png" crc="4037999658" ref="index"/>
-    <file name="logo facebook-crop-u24797_2x3.png" crc="483904947" ref="index"/>
     <file name="blank.gif" crc="4208392903" ref="index"/>
+    <file name="u38404-8.png" crc="4217120021" ref="phone>index"/>
+    <file name="u38404-8_2x.png" crc="173471361" ref="phone>index"/>
+    <file name="u38405-4.png" crc="479889376" ref="phone>index"/>
+    <file name="u38405-4_2x.png" crc="458615990" ref="phone>index"/>
+    <file name="logo108x38.png" crc="4254178740" seo="true" ref="phone>index"/>
+    <file name="logo108x38_2x.png" crc="4210872786" seo="true" ref="phone>index"/>
+    <file name="my image97x118.png" crc="4243643369" seo="true" ref="phone>index"/>
+    <file name="my image97x118_2x.png" crc="4171519612" seo="true" ref="phone>index"/>
+    <file name="logo163x57.png" crc="4074579422" seo="true" ref="phone>index"/>
+    <file name="logo163x57_2x.png" crc="4278290715" seo="true" ref="phone>index"/>
+    <file name="puri template wallpaper-u38284-fr.jpg" crc="355282700" ref="phone>index"/>
+    <file name="puri template wallpaper-u38284-fr_2x.jpg" crc="4292022563" ref="phone>index"/>
+    <file name="u38288-4.png" crc="4237100495" ref="phone>index"/>
+    <file name="u38288-4_2x.png" crc="3783464923" ref="phone>index"/>
+    <file name="u38311-5.png" crc="4133747566" ref="phone>index"/>
+    <file name="u38311-5_2x.png" crc="201105091" ref="phone>index"/>
+    <file name="u38313-5.png" crc="290629471" ref="phone>index"/>
+    <file name="u38313-5_2x.png" crc="260925583" ref="phone>index"/>
+    <file name="u38312-5.png" crc="64749000" ref="phone>index"/>
+    <file name="u38312-5_2x.png" crc="287820845" ref="phone>index"/>
+    <file name="u38314-5.png" crc="535086618" ref="phone>index"/>
+    <file name="u38314-5_2x.png" crc="258137968" ref="phone>index"/>
+    <file name="u38315-5.png" crc="3767073115" ref="phone>index"/>
+    <file name="u38315-5_2x.png" crc="344777081" ref="phone>index"/>
+    <file name="logo python-crop-u38301.png" crc="4039278191" ref="phone>index"/>
+    <file name="logo python-crop-u38301_2x.png" crc="38735208" ref="phone>index"/>
+    <file name="java logo-crop-u38303.png" crc="58994516" ref="phone>index"/>
+    <file name="java logo-crop-u38303_2x.png" crc="4251727666" ref="phone>index"/>
+    <file name="android logo-crop-u38305.png" crc="132510228" ref="phone>index"/>
+    <file name="android logo-crop-u38305_2x.png" crc="457805497" ref="phone>index"/>
+    <file name="logo opencv-crop-u38307.png" crc="3966110125" ref="phone>index"/>
+    <file name="logo opencv-crop-u38307_2x.png" crc="4199615688" ref="phone>index"/>
+    <file name="pngfindcom-kodi-png-19880054x55.png" crc="3832294533" seo="true" ref="phone>index"/>
+    <file name="pngfindcom-kodi-png-19880054x55_2x.png" crc="4202114584" seo="true" ref="phone>index"/>
+    <file name="u38318-4.png" crc="4008924572" ref="phone>index"/>
+    <file name="u38318-4_2x.png" crc="4075733493" ref="phone>index"/>
+    <file name="icon-crop-u38333.png" crc="180485837" ref="phone>index"/>
+    <file name="icon-crop-u38333_2x.png" crc="508831465" ref="phone>index"/>
+    <file name="u38340-4.png" crc="4274914888" ref="phone>index"/>
+    <file name="u38340-4_2x.png" crc="3919605146" ref="phone>index"/>
+    <file name="main_page-crop-u38327.jpg" crc="4268431564" ref="phone>index"/>
+    <file name="main_page-crop-u38327_2x.jpg" crc="258526453" ref="phone>index"/>
+    <file name="er_diagram259x121_2x.jpg" crc="3821645725" seo="true" ref="phone>index"/>
+    <file name="repo logo186x93.png" crc="436387318" seo="true" ref="phone>index"/>
+    <file name="repo logo186x93_2x.png" crc="3765290507" seo="true" ref="phone>index"/>
+    <file name="u38387-5.png" crc="151219717" ref="phone>index"/>
+    <file name="u38387-5_2x.png" crc="3840483657" ref="phone>index"/>
+    <file name="contact-u38368-fr.jpg" crc="156466352" ref="phone>index:index"/>
+    <file name="contact-u38368-fr_2x.jpg" crc="3844285845" ref="phone>index:index"/>
+    <file name="logo facebook41x41.png" crc="4103470007" seo="true" ref="index"/>
+    <file name="logo facebook41x41_2x.png" crc="477258469" seo="true" ref="index"/>
+    <file name="logo linkedin49x49.png" crc="4248946315" seo="true" ref="index"/>
+    <file name="logo linkedin49x49_2x.png" crc="4207748712" seo="true" ref="index"/>
+    <file name="logo github45x45.png" crc="478328863" seo="true" ref="index"/>
+    <file name="logo github45x45_2x.png" crc="195514503" seo="true" ref="index"/>
+    <file name="insta logo44x44.png" crc="4039467284" seo="true" ref="index"/>
+    <file name="insta logo44x44_2x.png" crc="4135898974" seo="true" ref="index"/>
+    <file name="logo youtube44x44.png" crc="3803190663" seo="true" ref="index"/>
+    <file name="logo youtube44x44_2x.png" crc="523767843" seo="true" ref="index"/>
+    <file name="logo facebook35x35.png" crc="3778213472" seo="true" ref="index"/>
+    <file name="logo facebook35x35_2x.png" crc="3771261961" seo="true" ref="index"/>
+    <file name="logo linkedin42x42.png" crc="44909860" seo="true" ref="index"/>
+    <file name="logo linkedin42x42_2x.png" crc="3808901849" seo="true" ref="index"/>
+    <file name="logo youtube37x37.png" crc="95844749" seo="true" ref="index"/>
+    <file name="logo youtube37x37_2x.png" crc="482398497" seo="true" ref="index"/>
+    <file name="logo linkedin26x26.png" crc="4103820722" seo="true" ref="index"/>
+    <file name="logo linkedin26x26_2x.png" crc="3936276623" seo="true" ref="index"/>
+    <file name="logo github24x24.png" crc="233952607" seo="true" ref="index"/>
+    <file name="logo github24x24_2x.png" crc="343752431" seo="true" ref="index"/>
+    <file name="insta logo24x24.png" crc="300103421" seo="true" ref="index"/>
+    <file name="insta logo24x24_2x.png" crc="3840885516" seo="true" ref="index"/>
+    <file name="logo youtube23x23.png" crc="515666347" seo="true" ref="index"/>
+    <file name="logo youtube23x23_2x.png" crc="152111666" seo="true" ref="index"/>
+    <file name="logo facebook22x22.png" crc="101383982" seo="true" ref="index"/>
+    <file name="logo facebook22x22_2x.png" crc="3966914660" seo="true" ref="index"/>
   </folder>
-  <file name="index.html" crc="3985825052" seo="true" mt="1564330160121" redirect="true"/>
+  <file name="index.html" crc="487566222" seo="true" mt="1564947965761" redirect="true"/>
 </manifest>
