@@ -1,0 +1,95 @@
+@font-face {
+    font-family: '8bit-bold';
+    src: url('fonts/slkscreb.ttf');
+}
+@font-face{
+    font-family:'8bit-normal';
+    src: url('fonts/slkscr.ttf');
+}
+.menu-full{
+    margin-left: 50 px;
+}
+.menu {
+	background:url(static/images/menuBackground.png) repeat-x left top;
+	height:103px;
+	text-align:center;
+	margin-top:265px;
+}
+.menu ul {
+	margin:0;
+	padding-top:32px;
+}
+.menu li {
+	list-style:none;
+	display:inline;
+	padding:20px 15px 0 15px;
+}
+.menu li a {
+	color:#ffffff;
+	font-size:24px;
+	text-decoration:none;
+}
+.menu li a:hover {
+	color:#ff9c00;
+	font-size:24px;
+	text-decoration:none;
+}
+.menu #active a {
+	color:#ff9c00;
+	font-size:24px;
+	text-decoration:none;
+}
+.photo{
+    margin-top: 0px;
+    width:200px;
+    height:300px;
+    margin-right:70px;
+}
+.first-name{
+    font-family: '8bit-bold'; 
+    color: purple;
+    text-align: center;
+    font-size: 50px;
+    margin: 0;
+}
+.last-name{
+    font-family: '8bit-bold'; 
+    color: orange;
+    text-align: center;
+    font-size: 100px;
+    margin:0;    
+}
+.intro{
+    margin-top: 100px;
+    color: white;
+    font-family: '8bit-normal';
+    font-size: 20px;
+    text-align: center;
+}
+.skills-head{
+    margin-top: 200px;
+    font-family: '8bit-bold';
+    text-align: center;
+    font-size: 30px;
+    color: white;
+}
+.skills-para{
+    margin-top: 50px;
+    font-family: '8bit-normal';
+    font-size: 20px;
+    color: white;
+    text-align: center;
+}
+.skills-set{
+    text-align: center;
+    margin-top: 20px;
+    font-family: '8bit-normal';
+}
+.skills-heart{
+    width:30px;
+    height:30px;
+}
+
+body{
+    background-color: black;
+}
